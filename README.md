@@ -2,7 +2,7 @@
 
 [![Docker Repository on Quay](https://quay.io/repository/bukalapak/snowboard/status)](https://quay.io/repository/bukalapak/snowboard)
 
-API blueprint toolkit.
+API blueprint toolkit EDITED.
 
 ![Winter theme with playground enabled](packages/snowboard-theme-winter/doc/winter-screenshot.png)
 
